@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+
+h1, h2 {
+  color: grey;
+}
+
+p {
+  color: dark-grey;
+}
+
+li {
+  color: white;
+}
